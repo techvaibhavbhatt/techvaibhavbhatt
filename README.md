@@ -1,22 +1,30 @@
-## 💫 About Me:
 
-**VAIBHAV BHATT** <br/>
-Namaste/ Hello/ Salut/ I'm Vaibhav.
+# Hi, I'm Vaibhav Bhatt 👋
 
-I'm a Java backend developer driven by a passion for solving complex problems with clean and efficient code.
+MCA student at AKTU, Lucknow | Aspiring Software Engineer
 
-**What I Build:** Scalable backend services and RESTful APIs using Java & Spring Boot.
+I am learning software engineering step by step. Right now I am
+building my foundation in web development, Java and Data Structures
+& Algorithms, and I build projects to practice what I learn.
 
-**Proof of Work:** Developed the complete Quiz Application, managing the entire backend architecture.
+## Currently Learning
+- Java
+- Data Structures & Algorithms (DSA)
+- React
+- MySQL
 
-**My Goal:** To contribute my skills to a challenging SDE role and help build impactful technology.
+## Tech Stack
+HTML | CSS | JavaScript | React | Java | MySQL | Git | GitHub
 
- Actively seeking new opportunities. Let's connect!
+## Projects
+- **MindfulAI**: AI mental health companion with mood tracking and voice input
+- **recoverAI**: AI-guided payment recovery SaaS built for the Razorpay buildathon. It helps businesses recover failed payments
 
-**Let's Build the Future Together**
+## Open to
+SDE internships and freelance projects
 
-I am currently pursuing my Bachelor of Computer Applications (BCA) and am passionate about taking on new challenges. I am always open to discussing new projects, creative ideas, or opportunities to collaborate with an ambitious team.
-
+## Connect
+vaibhavbhatt1585@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techvaibhavbhatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-bhatt-bb20aa326/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vaibhavbhatt36) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavbhatt1585@gmail.com) 
